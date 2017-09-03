@@ -1,5 +1,5 @@
 # laravel-fb-login
-laravel5前后台登录分离
+laravel5.5前后台登录分离
 * 前台地址 127.0.0.1
 * 后台地址 127.0.0.1/admin
 
